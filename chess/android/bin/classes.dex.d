@@ -1,0 +1,26 @@
+/home/yile/Downloads/chess/android/bin/classes.dex : \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/example/chess/chess/R$string.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/example/chess/chess/R.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/example/chess/chess/BuildConfig.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/example/chess/chess/R$attr.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/example/chess/chess/R$drawable.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/example/chess/chess/R$layout.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/example/chess/chess/R$array.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtActivity.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtActivity$6.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtActivity$5.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtActivity$4.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtApplication.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtActivity$3.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtActivity$2.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtApplication$InvokeResult.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1$1.class \
+/home/yile/Downloads/chess/android/bin/classes/org/kde/necessitas/origo/QtActivity$1.class \
+/home/yile/Application/NecessitasQtSDK/android-sdk/tools/support/annotations.jar \

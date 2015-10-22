@@ -1,0 +1,26 @@
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes.dex : \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/example/chess/BuildConfig.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/example/chess/R$array.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/example/chess/R$attr.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/example/chess/R$drawable.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/example/chess/R$layout.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/example/chess/R$string.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/example/chess/R.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtActivity$1.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtActivity$2.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1$1.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtActivity$3.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtActivity$4.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtActivity$5.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtActivity$6.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtActivity.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtApplication$InvokeResult.class \
+/Users/kunaparajuavinash/Downloads/chess-2/android/bin/classes/org/kde/necessitas/origo/QtApplication.class \
+/Users/kunaparajuavinash/necessitas/android-sdk/tools/support/annotations.jar \
